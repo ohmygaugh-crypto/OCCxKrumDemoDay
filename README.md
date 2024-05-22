@@ -8,3 +8,10 @@ so be patient ;)
 
 be sure to have the html file names index and not the title of the file originating from the obsidian vault
 as only index.html will be recognized by internet service provdiers
+
+
+If your repository is not shown, configure repository access for the Cloudflare Pages app on GitHub.
+
+https://github.com/settings/installations/41733673
+
+then just serach for and add your repo to be visisble by cloudflare
